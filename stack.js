@@ -3,6 +3,7 @@ function createStack() {
 
   return {
     push: function (item) {
+      //menambahkan
       array.push(item);
     },
     pop: function () {
@@ -23,13 +24,15 @@ const bookStack = createStack();
 bookStack.push("The Effective Engineer");
 bookStack.push("The Pragmatic Programmer");
 bookStack.push("Start With Why");
+bookStack.push("Buku Sakti");
+bookStack.push("Buku Sakti yess");
 // melihat data stack
 console.log(bookStack.peek());
 // menghapus elemen trakhir
-bookStack.pop();
-bookStack.pop();
-console.log(bookStack.peek());
-console.log(bookStack.size());
+// bookStack.pop();
+// bookStack.pop();
+// console.log(bookStack.peek());
+// console.log(bookStack.size());
 
 // CALL STACK
 function add(a, b) {
