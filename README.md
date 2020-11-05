@@ -4,5 +4,6 @@ Belajar Algoritma struktur data fundamental menggunakan pemrograman Javascript
 
 ## Materi :
 
-1. arrays
-2. objects
+1. array
+2. object
+3. stack (LIFO) Last In First Out
