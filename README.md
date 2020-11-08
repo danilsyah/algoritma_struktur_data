@@ -8,3 +8,4 @@ Belajar Algoritma struktur data fundamental menggunakan pemrograman Javascript
 2. object
 3. stack (LIFO) Last In First Out
 4. queue (FIFO) First In First Out
+5. linked list
